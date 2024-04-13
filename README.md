@@ -5,7 +5,7 @@ ReadMe for the hateful communication review dataset from Yu et al. (Accepted). T
 If you use this dataset or any results from the analysis, please cite our paper under review. If you have any questions, please contact the response author MSc Zehui Yu for feedback: zehui.yu@gesis.org. 
 
 The full author list can be found below:
-Zehui Yu (GESIS, RWTH Aachen), Indira Sen (RWTH Aachen, Kostanz University), Dennis Assenmacher (GESIS), Mattia Samory (Sapienza - Università di Roma), Leon Fröhling (GESIS, RWTH Aachen), Christina Dahn (GESIS), Debora Nozza (Bocconi University), and Claudia Wagner (GESIS, RWTH Aachen). This paper is part of the outputs of the Online Dehumanization project of GESIS: https://www.gesis.org/en/research/external-funding-projects/details/project/144/dehumanization-online-measurement-and-consequences-professorinnenprogramm
+Zehui Yu (GESIS, RWTH Aachen), Indira Sen (RWTH Aachen, Kostanz University), Dennis Assenmacher (GESIS), Mattia Samory (Sapienza - Università di Roma), Leon Fröhling (GESIS, RWTH Aachen), Christina Dahn (GESIS), Debora Nozza (Bocconi University), and Claudia Wagner (GESIS, RWTH Aachen). 
 
 ## Dataset descriptions
 
