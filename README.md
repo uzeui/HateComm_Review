@@ -2,7 +2,7 @@
 
 ReadMe for the hateful communication review dataset from Yu et al. (Accepted). This paper presents a systematic literature review of the past decade of papers that introduce datasets meant for training machine learning models for detecting hateful language, focusing on the included identities that shape the production of hateful communication datasets. 
 
-If you use this dataset or any results from the analysis, please cite our paper under review. If you have any questions, please contact the response author MSc Zehui Yu for feedback: zehui.yu@gesis.org. 
+If you use this dataset or any results from the analysis, please cite our paper under review. If you have any questions, please contact the response author MSc Zehui Yu for feedback: zehui.yu at gesis.org. 
 
 The full author list can be found below:
 Zehui Yu (GESIS, RWTH Aachen), Indira Sen (RWTH Aachen, Kostanz University), Dennis Assenmacher (GESIS), Mattia Samory (Sapienza - Università di Roma), Leon Fröhling (GESIS, RWTH Aachen), Christina Dahn (GESIS), Debora Nozza (Bocconi University), and Claudia Wagner (GESIS, RWTH Aachen). 
