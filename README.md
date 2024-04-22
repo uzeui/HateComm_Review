@@ -9,9 +9,9 @@ Zehui Yu (GESIS, RWTH Aachen), Indira Sen (RWTH Aachen, Kostanz University), Den
 
 ## Dataset descriptions
 
-Hate Review_cleaned_v16.csv is the full dataset used in the paper for the special issue of the Social Science Computer Review journal.
+hatereview_cleaned.csv is the full dataset used in the paper for the special issue of the Social Science Computer Review journal.
 
-HateReview_1.csv removes unqualified entries based on a few filtering questions, including duplicated results, dataset creation, and accessibility. Duplicates are either from the paper downloading step using search queries since we downloaded the paper from different sources or manual annotations due to repeated annotation. In terms of the dataset, the included datasets should be newly created or adapted and accessible to researchers for the use of further research. 
+hatereview_1.csv removes unqualified entries based on a few filtering questions, including duplicated results, dataset creation, and accessibility. Duplicates are either from the paper downloading step using search queries since we downloaded the paper from different sources or manual annotations due to repeated annotation. In terms of the dataset, the included datasets should be newly created or adapted and accessible to researchers for the use of further research. 
 
 ## Overview
 
