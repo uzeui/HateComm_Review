@@ -1,6 +1,6 @@
 # Hateful Communication Review Dataset
 
-ReadMe for the hateful communication review dataset from Yu et al. (Accepted). This paper presents a systematic literature review of the past decade of papers that introduce datasets meant for training machine learning models for detecting hateful language, focusing on the included identities that shape the production of hateful communication datasets. 
+ReadMe for the hateful communication review dataset from Yu et al. (Accepted by Social Science Computer Review and available at: http://arxiv.org/abs/2405.08562). This paper presents a systematic literature review of the past decade of papers that introduce datasets meant for training machine learning models for detecting hateful language, focusing on the included identities that shape the production of hateful communication datasets. 
 
 If you use this dataset or any results from the analysis, please cite our paper under review. If you have any questions, please contact the response author MSc Zehui Yu for feedback: zehui.yu at gesis.org. 
 
